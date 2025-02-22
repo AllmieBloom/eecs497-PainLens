@@ -6,6 +6,9 @@ _________________________
 
 PainLens
 
+# Command Line Notes
+`python3 -m http.server 8000`
+
 # Git Notes
 Making a commit: 
 ```
